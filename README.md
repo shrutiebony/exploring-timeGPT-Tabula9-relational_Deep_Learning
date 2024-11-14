@@ -53,7 +53,7 @@ This folder shows the use of Relational Deep Learning (RDL) with RelBench for ta
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/Praful-John2409/TimeGPT-Tabular-RD
+   git clone https://github.com/ShrutiEbony/TimeGPT-Tabular-RD
    cd your-repository
    ```
 
