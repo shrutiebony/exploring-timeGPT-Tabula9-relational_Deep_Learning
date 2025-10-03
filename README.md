@@ -1,4 +1,4 @@
-## timeGPT-Tabula9-relationalDeepLearning
+## Exploring timeGPT-Tabula9-relational_Deep_Learning
 
 ---
 Below are the video tutorials explaining the implementation and execution of each Colab notebook:
