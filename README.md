@@ -1,7 +1,6 @@
-# timeGPT-Tabula9-relationalDeepLearning
+## timeGPT-Tabula9-relationalDeepLearning
 
 ---
-## Youtube video: https://youtu.be/tPT0n1OeylI
 Below are the video tutorials explaining the implementation and execution of each Colab notebook:
 
 1. **[TimeGPT Video Tutorial](https://youtu.be/timegpt-video-link)**  
